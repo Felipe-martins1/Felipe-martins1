@@ -6,7 +6,7 @@ My name is Felipe Martins and i'm Fullstack Developer living in Brazil
 
 - ⚡ I am currently focused on web/mobile development, but I have studied on several areas of development, such as microcontrollers and game development for example
 
-- 📫 How to reach me: [Felipe.dev](https://felipe-martins1-dev.vercel.app/) or [<img align="center" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/felipemartins1/)
+- 📫 How to reach me: [Felipe.dev](https://felipe-martins1-dev.vercel.app/) or [<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/felipemartins1/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
