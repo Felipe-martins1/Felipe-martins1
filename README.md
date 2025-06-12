@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Felipe Martins and i'm Front-end Developer living in Brazil
+My name is Felipe Martins and i'm Senior Fullstack Developer living in Brazil
 
 - ❤I love technology and how we can use this "super power" to transform things            
 
